@@ -15,8 +15,6 @@ Sou um **programador Backend** apaixonado por **tecnologia** e **desenvolvimento
 
 ## 📬 Meios de Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [Twitter](https://twitter.com/seu-twitter)
-- [Email](mailto:seu-email@gmail.com)
+...
 
 ---
