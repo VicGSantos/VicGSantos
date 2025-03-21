@@ -1,3 +1,4 @@
+#joguin da forca
 import random
 
 animal = ["TIGRE", "CORUJA", "ONÇA"]
