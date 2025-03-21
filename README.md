@@ -4,10 +4,10 @@
 
 import random
 
-animal = ["TIGRE", "CORUJA", "ONÇA"]
-comida = ["MAÇA", "UVA", "FEIJAO", "ARROZ"]
-roupa = ["TENIS", "CAMISA", "SHORTS", "SAIA"]
-cor = ["AZUL", "LARANJA", "ROXO", "VERDE"]
+animal = ["TIGRE", "CORUJA", "ONÇA", "LEÃO", "ELEFANTE", "URSO", "ZEBRA", "GIRAFA", "CAVALO", "AVESTRUZ", "CAMELO", "COELHO", "LAGARTO", "JACARÉ", "Lobo"]
+comida = ["MAÇA", "UVA", "FEIJAO", "ARROZ", "LIMAO", "MELANCIA", "MORANGO", "LARANJA", "BANANA", "ABACAXI", "GOIABA", "CAJU", "MANGA", "PEPINO", "CABELUDINHA"]
+roupa = ["TÊNIS", "CAMISA", "SHORTS", "SAIA", "CALÇA", "BLUSA", "JAQUETA", "SANDÁLIA", "VESTIDO", "BERMUDA", "SUÉTER", "CALÇA JEANS", "BOINA", "REGATA", "LUVA"]
+cor = ["AZUL", "LARANJA", "ROXO", "VERDE", "VERMELHO", "AMARELO", "PRETO", "BRANCO", "CINZA", "PINK", "MARROM", "BEGE", "TURQUESA", "DOURADO", "PRATA"]
 
 
 generos = [animal, comida, roupa, cor]
